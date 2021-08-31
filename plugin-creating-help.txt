@@ -1,0 +1,2 @@
+Do you want to make your own Plugin for Subarashi?
+Check this https://github.com/Subarashi-Project/Subarashi/tree/main/plugins/example
