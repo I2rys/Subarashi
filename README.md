@@ -2,6 +2,9 @@
 <h1 align="center">Subarashi</h1>
 <h4 align="center">A really simple NodeJS AIO hacking tool</h4>
 <p align="center">
+	<img src="https://github.com/Subarashi-Project/Subarashi/blob/main/preview.PNG?raw=true"></img>
+</p>
+<p align="center">
 	<a href="https://github.com/Subarashi-Project/Subarashi/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Subarashi-Project/Subarashi?style=flat-square"></img></a>
 	<a href="https://github.com/Subarashi-Project/Subarashi"><img src="https://bettercodehub.com/edge/badge/Subarashi-Project/Subarashi?branch=main"></a>
 	<a href="https://github.com/Subarashi-Project/Subarashi/issues"><img src="https://img.shields.io/github/issues/Subarashi-Project/Subarashi.svg"></img></a>
