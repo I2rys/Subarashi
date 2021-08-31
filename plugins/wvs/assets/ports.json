@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Echo Protocol",
+        "port": 7
+    },
+    {
+        "name": "Daytime",
+        "port": 13
+    },
+    {
+        "name": "SSH",
+        "port": 20
+    },
+    {
+        "name": "Telnet",
+        "port": 23
+    },
+    {
+        "name": "SMTP",
+        "port": 25
+    },
+    {
+        "name": "DNS",
+        "port": 53
+    },
+    {
+        "name": "UDP Server",
+        "port": 67
+    },
+    {
+        "name": "UDP Client",
+        "port": 68
+    },
+    {
+        "name": "HTTP",
+        "port": 80
+    },
+    {
+        "name": "POP3",
+        "port": 110
+    },
+    {
+        "name": "NNTP",
+        "port": 119
+    },
+    {
+        "name": "NTP",
+        "port": 123
+    },
+    {
+        "name": "IMAP",
+        "port": 143
+    },
+    {
+        "name": "SNMP",
+        "port": 161
+    },
+    {
+        "name": "Datagram Protocol",
+        "port": 194
+    },
+    {
+        "name": "HTTPS",
+        "port": 443
+    },
+    {
+        "name": "LPR",
+        "port": 515
+    },
+    {
+        "name": "IMAPS",
+        "port": 993
+    },
+    {
+        "name": "Secure POP3",
+        "port": 995
+    },
+    {
+        "name": "SOCKS",
+        "port": 1080
+    },
+    {
+        "name": "HTTP/TCP Proxy Listener",
+        "port": 3128
+    },
+    {
+        "name": "MySQL Protocol",
+        "port": 3306
+    },
+    {
+        "name": "RDP",
+        "port": 3389
+    },
+    {
+        "name": "PostgreSQL",
+        "port": 5432
+    },
+    {
+        "name": "VNC",
+        "port": 5900
+    },
+    {
+        "name": "TeamViewer",
+        "port": 5938
+    },
+    {
+        "name": "Web Server",
+        "port": 8080
+    }
+]
