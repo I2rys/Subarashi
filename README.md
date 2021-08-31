@@ -17,7 +17,7 @@ Github:
 
 NPM Packages:
 
-    npm i readline && npm i request && npm i delay && npm i chalk && npm i json-hood && npm i secure-random-password && npm i puppeteer
+    npm i readline && npm i request && npm i delay && npm i chalk && npm i json-hood && npm i secure-random-password && npm i puppeteer && npm i moment
     
 ## Usage
 
